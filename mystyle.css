@@ -1,0 +1,86 @@
+body {
+   background-image: url("https://drive.google.com/file/d/1R0ZdsB0c5jhzW5J2PtV5mgDa6eEQgOa3/view");
+}
+
+
+h1 {
+
+ font-size: 35px;
+ text-align: center;
+ font-family: monospace;
+ color: black;
+ padding-top: 20px;
+ padding-bottom: 30px;
+}
+
+
+h2{
+  font-size: 20px;
+  text-align: center;
+  font-family: monospace;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+h3{
+   text-align: center; color: black;
+       border: 20px solid white;
+       background-color: white;
+}
+
+h4{
+  font-size: 20px;
+  text-align: center;
+  font-family: monospace;
+  color: black;
+  padding-top: 10px;
+  padding-bottom:10px;
+}
+
+h5{
+  text-align: center; color: black;
+  border: 20px solid white;
+  background-color: white;
+}
+
+h6{
+  font-size: 29px;
+  text-align: center;
+  font-family: monospace;
+  color: black;
+  margin-top: 34px;
+}
+
+#sec1{
+   text-align: center; color: black;
+       border: 20px solid white;
+       background-color: white;
+}
+
+#sec2 {
+   text-align: center; color: black; font-size: 60;
+}
+
+#sec2 > a {
+    font-size: 20px;
+    font-family: monospace;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+
+}
+
+a:link {
+  font-size:17px;
+  color: black;
+}
+
+a:visited {
+  font-size:17px;
+  color: black;
+}
+
+a:hover {
+    color: navy;
+}
