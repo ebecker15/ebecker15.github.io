@@ -1,5 +1,5 @@
 body {
-   background-image: url("https://drive.google.com/file/d/1R0ZdsB0c5jhzW5J2PtV5mgDa6eEQgOa3/view");
+
 }
 
 
@@ -21,7 +21,11 @@ h2{
 
 
 h3{
-
+  margin-top:0px;
+  font-size: 16px;
+  text-align: center;
+  font-family: monospace;
+  color: black;
 }
 
 h4{
