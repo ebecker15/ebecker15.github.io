@@ -6,8 +6,8 @@
 
 #styleSmallheader {
   font-size: 0.9rem;
-  margin-top: -450px;
-  margin-bottom: 450px;
+  margin-top: -255px;
+  margin-bottom: 260px;
   color: rgb(0, 0, 0);
   font-family: 'Staatliches', cursive;
   /* background: rgb(255, 255, 255, 0.7); */
@@ -60,9 +60,9 @@ body {
 }
 
 h1 {
-  font-size: 4.4rem;
-  margin-top: 250px;
-  margin-bottom: 450px;
+  font-size: 4.3rem;
+  margin-top: 220px;
+  margin-bottom: 260px;
   color: rgb(0, 0, 0);
   font-family: 'Staatliches', cursive;
   /* background: rgb(255, 255, 255, 0.7); */
@@ -77,3 +77,11 @@ a:hover{
   background: white;
 }
 
+.img-thumbnail {
+  padding: .1rem;
+  background-color: #fff;
+  border: none;
+  border-radius: 0rem;
+  max-width: 100%;
+  height: auto;
+}
