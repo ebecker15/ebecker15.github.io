@@ -7,7 +7,7 @@
 #styleSmallheader {
   font-size: 0.9rem;
   margin-top: -255px;
-  margin-bottom: 260px;
+  margin-bottom: 250px;
   color: rgb(0, 0, 0);
   font-family: 'Staatliches', cursive;
   /* background: rgb(255, 255, 255, 0.7); */
@@ -26,9 +26,18 @@
   padding: 0px 20px 20px 20px;
 }
 
+/* #scrollToportlink {
+  text-align: center;
+  margin-bottom: 400px;
+  margin-top: 40px;
+  font-size: 0.9rem;
+  color: rgb(14, 14, 14);
+  font-family: 'Staatliches', cursive;
+} */
+
 #portSection {
   background: white;
-  margin-top: -30px;
+  margin-top: 80px;
   padding: 40px 40px 40px 40px;
 }
 
@@ -78,10 +87,42 @@ a:hover{
 }
 
 .img-thumbnail {
-  padding: .1rem;
+  padding: 0rem;
   background-color: #fff;
   border: none;
+  margin: 0px;
   border-radius: 0rem;
-  max-width: 100%;
-  height: auto;
+}
+
+.thinRow {
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #fff;
+  border: none;
+  margin: 0px;
+  border-radius: 0rem;
+  width: 300px; /* You can set the dimensions to whatever you want */
+  height: 400px;
+  object-fit: cover;
+}
+.sndRow {
+  padding: 0rem;
+  background-color: #fff;
+  border: none;
+  margin: 0px;
+  border-radius: 0rem;
+  width: 700px; /* You can set the dimensions to whatever you want */
+  height: 300px;
+  object-fit: cover;
+}
+
+.lsndRow {
+  padding: 0rem;
+  background-color: #fff;
+  border: none;
+  margin: 0px;
+  border-radius: 0rem;
+  width: 800px; /* You can set the dimensions to whatever you want */
+  height: 400px;
+  object-fit: cover;
 }
