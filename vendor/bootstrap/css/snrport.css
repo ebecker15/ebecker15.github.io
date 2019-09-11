@@ -1,0 +1,212 @@
+/*styling not alike photography in the corner of page */
+#logoId{
+  font-size: 0.9rem;
+  color: rgb(37, 36, 36);
+  font-family: 'Staatliches', cursive;
+  padding: 5px 5px 5px 5px;
+  background: none;
+}
+
+/*styling "capture reality, capture vitality" */
+#styleSmallheader {
+  font-size: 0.9rem;
+  margin-top: -255px;
+  padding-bottom: 20px;
+  color: rgb(0, 0, 0);
+  font-family: 'Staatliches', cursive;
+  /* background: rgb(255, 255, 255, 0.7); */
+}
+
+/*styling of the navbar*/
+#styleNav {
+  font-size: 0.9rem;
+  text-align: center;
+  color: rgb(37, 36, 36);
+  font-family: 'Staatliches', cursive;
+}
+
+/*styling padding for the nav*/
+#navBar {
+  /* background: rgb(255, 255, 255, 0.7); */
+  margin-top: 5px;
+  padding: 0px 20px 20px 20px;
+}
+
+/*styling for scroll down button*/
+#scrollToportlink {
+  text-align: center;
+  margin-bottom: -450px;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: rgb(14, 14, 14);
+  font-family: 'Staatliches', cursive;
+  background-color: none;
+  align-content: center;
+}
+
+/*styling for the portfolio section*/
+#portSection {
+  background: white;
+  margin-top: 350px;
+  padding: 40px 40px 40px 40px;
+}
+
+#abtSection {
+  background: white;
+  margin-top: 350px;
+  padding: 60px 40px 40px 40px;
+}
+
+#abtSectionwords {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 0px;
+  font-size: 1rem;
+  font-family: 'Staatliches', cursive;
+  border: none;
+}
+
+
+/*styling for the header of the portfolio section*/
+#styleArrow {
+  text-align: center;
+  margin-top: -30px;
+  font-size: 3rem;
+  font-family: 'Staatliches', cursive;
+  background: none;
+}
+
+/*styling for the senior photos*/
+#seniorPhotoone {
+  text-align: center;
+  align-content: center;
+  margin-bottom: 100px;
+  margin-top: 25px;
+  font-size: 1rem;
+  font-family: 'Staatliches', cursive;
+  /* border: solid; */
+}
+
+#photoCaptions{
+  margin-top: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+}
+#photoCaptionssub{
+  margin-top: -15px;
+  text-align: center;
+  font-size: 15px;
+}
+
+
+
+body {
+  font-family: 'Oswald', sans-serif !important;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.74), rgba(71, 71, 71, 0.73)), url("https://lh3.googleusercontent.com/6bRO1fKGnj8wdzGShgkUKy6pxbKGibCOEcIBXmRRApxEnx9CZreiUl7mBkEifuZdhHMoA6KzkCfvJ-QTL_3bZSIucZiT3bd5c9ICuC7zvV2J6mw3LTN1jb1IT6FAsPqaK3VaVhg5gL_P8EzZygCP3lFkrvZdznApmjHsS5jyfwJboXVi1CWgwGT1QhbF_i2_Ujz1Gu7q0g3TmABpl8V6QusTNhTwmJhubtdnGcdq5dhectM-g6oxnxAo_W7STv6fSJKxpVvghT03y1AGb_7YtypR8i9w0eBS3F9_9Obo0b94fh01XoSPtjybtVPTVZAy0A-UrWqLmORzYl3UAhIVkrVyUg8rmo7GY2T1pCpKRHJ72TIl1RRPDwHcqXde0ITAK7XgbYzUupLrBA_Wd6kcY5Vlfmd1ttJaldx0Iz00iyiIlGCrc9Q-GowzCfFZHymAliJ3csAWa2KkqPjngsZt_oOxqP9X2QsHlQzRpkLgyGcgw8TLWowTYmH_zLRRAaHOcUBoUEu4hE_CEC3vNbQjjSVAgPJuo3q2Y1ja4WfPV30bkonsxWPE1BSktMYV4MTFrzDL3VpKoK-9gfHvaFgDJcrizOQ0Gm-BQOdQ6_7blQKlHqKA-mFGdxm0ytvtOAyIh1GytFzt4MkBSNCOl1-OgLWTUsevlJS_wraLvG2AuGRLecuLu4ip0TE=w1569-h950-no");
+  background-size: cover;
+  height: 100%;
+  background-attachment: fixed;
+}
+
+/*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
+h1 {
+  font-size: 4.3rem;
+  margin-top: 320px;
+  margin-bottom: 260px;
+  color: rgb(0, 0, 0);
+  font-family: 'Staatliches', cursive;
+  /* background: rgb(255, 255, 255, 0.7); */
+}
+
+a:hover{
+  background: rgb(255, 255, 255);
+}
+
+.active{
+  background: white;
+}
+
+.img-thumbnail {
+  padding: 0rem;
+  background-color: #fff;
+  border: none;
+  margin: 0px;
+  border-radius: 0rem;
+}
+
+.thinRow {
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #fff;
+  border: none;
+  margin: 0px;
+  border-radius: 0rem;
+  width: 300px; /* You can set the dimensions to whatever you want */
+  height: 400px;
+  object-fit: cover;
+}
+.sndRow {
+  padding: 0rem;
+  background-color: #fff;
+  border: none;
+  margin: 0px;
+  border-radius: 0rem;
+  width: 300px; /* You can set the dimensions to whatever you want */
+  height: 400px;
+  object-fit: cover;
+}
+
+.lsndRow {
+  padding: 0rem;
+  background-color: #fff;
+  border: none;
+  margin: 0px;
+  border-radius: 0rem;
+  width: 300px; /* You can set the dimensions to whatever you want */
+  height: 400px;
+  object-fit: cover;
+}
+
+.caption {
+  padding: 20px 20px;
+}
+
+.nav-pills .nav-link.active {
+  background-color:  rgb(87, 199, 255 ,0.7);
+}
+
+/*for arrow*/
+i {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 10px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+/*Testing scroll down button*/
+
+
+
+
+
+/*Attempt at buttons*/
