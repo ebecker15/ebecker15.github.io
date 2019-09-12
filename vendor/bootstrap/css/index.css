@@ -22,6 +22,7 @@
   font-size: 0.9rem;
   text-align: center;
   color: rgb(37, 36, 36);
+  border-radius: 0rem;
   font-family: 'Staatliches', cursive;
 }
 
@@ -91,7 +92,7 @@ h1 {
 }
 
 a:hover{
-  background: rgb(255, 255, 255);
+  background: rgb(255, 255, 255, 0.7);
 }
 
 .active{
