@@ -1,8 +1,14 @@
+@media screen and (max-width: 600px) {
+  div.container-fluid {
+    font-size: 2rem;
+  }
+}
+
 /*styling not alike photography in the corner of page */
 #logoId{
   font-size: 0.9rem;
   color: rgb(37, 36, 36);
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   padding: 5px 5px 5px 5px;
   background: none;
 }
@@ -10,10 +16,10 @@
 /*styling "capture reality, capture vitality" */
 #styleSmallheader {
   font-size: 0.9rem;
-  margin-top: -255px;
-  padding-bottom: 20px;
+  margin-top: -205px;
+  padding-bottom: 10px;
   color: rgb(0, 0, 0);
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
 }
 
@@ -23,7 +29,7 @@
   text-align: center;
   color: rgb(37, 36, 36);
   border-radius: 0rem;
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
 }
 
 /*styling padding for the nav*/
@@ -40,7 +46,7 @@
   margin-top: 10px;
   font-size: 0.9rem;
   color: rgb(14, 14, 14);
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   background-color: none;
   align-content: center;
 }
@@ -48,7 +54,7 @@
 /*styling for the portfolio section*/
 #portSection {
   background: white;
-  margin-top: 350px;
+  margin-top: 260px;
   padding: 40px 40px 40px 40px;
 }
 
@@ -57,7 +63,7 @@
   text-align: center;
   margin-top: -25px;
   font-size: 3rem;
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   background: none;
 }
 
@@ -67,7 +73,7 @@
   margin-bottom: 50px;
   margin-top: 0px;
   font-size: 1rem;
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   border: none;
 }
 
@@ -75,7 +81,7 @@
 
 body {
   font-family: 'Oswald', sans-serif !important;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.54), rgba(71, 71, 71, 0.53)), url("https://lh3.googleusercontent.com/fKkRcYMNODczapE0NObuhmAArC2hGHUZItEemQNpmWtROcjfSvqEqWEozTTpOnMOJOETcqx81_qBRD3ZHKIvIDfd65d4BJcnHWKzVJpxyfvEfMwDQ_dD2ZusGdruoQWk1Dvav4J1cDRkViDnzqjNVQ3Et5Tf7uCdIGaEPfgbcZD7iORubqwaz-9ypGHhI6HVexsbzzygkV8QCD0U81npPGpYrXK-XT1JLfvl5LAKCI1GYaetRWgT7wmWgLeCUxDHrF2OapOChypEXOPdYJ3X2N6tcqP_EsemaN3XPYwBlohpDhUJvGLa4nug9rpcldT_1MXGP5FxvsxQPzkpyPeRGHYxpBw5eCDR4W0VB39EgXqef5zjzEqS_G-WwoJcaHUSwBF5Xut169p6BpRGspHHrXGDTaAVuBBhReEQANNPzuHyt8oYhr3VH1rPrAKl4dPFDMrVT8BcWuwHd4rZrZWvJU5cdL-lxS5MZZlynEh2RwEe0ZyAr86CQmQo_QXuo8MCu8vo81qvWGnnQuOyYXRPfOxcyFLcDYPkmkeP1i9n8jKfkc_Ev-2u-2C_lqbHTvNpu-jW4LCG-gnWFAgVILl20_bKQVvQZE4EnyZfEz4nPMCR5HKptAKSagjrjTC8uZBI8qF7GGKFFg8RZRh95j357YCE2auaFHM=w2368-h1578-no");
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.54), rgba(71, 71, 71, 0.53)), url("https://lh3.googleusercontent.com/FQYrjmkjNdZdLa30FqIiT9kg4iJ4O_kg4DlGtfmkj0nuaRF_h5iNOGPEEj3WT8-t2VJSLUemnZpwheHhO0dlHx2Atgu08RURYz89zmEyMl_zjv4uXqV2WYacRX_rdsqi83w5VF_UeJJABodTiR_45mGMu9y3jxZytZt4MxXk_Z2xMc4v_BEukcztths1gtFnCelqDjmvBQjkOCaXbWhYQiNVKm3r5AiV5ZmaVM1zp7jbDWD36uTds73B2cIGk1du5C--aMpQtBbux_EPsoLSoXAxUwbl6R-cvMbzTnzyFYvlu7eTVVLa_jjIoVzG129bO7qTbbTP72lXWmLs6CwBQCc0YhDyN-8EESmAKgMuaiwWY9CnQZ4AREcNIeRExr2lwmClAfOs1d5TcAWOZ_YOxnf-bhZhHPx2glRzhI964hldeHb5P4ALSli3OIpVDkilYA0Bmbc6OvPOWPT_xDU89lQWqA6sctRf4vysFICSiR6XKWMN7apUBgPQSXW9tcDirlVWm73cYvVaRclcSks2PG54p5ql-Hh4oa5tPI-RcTd39QfL-OnqwKSHBHdzAI_77izBo6Vwj0S-qzQqOn2A8ndoeLhnZZoYGZeJqz9407lOCwr-mv6ek1wg5OBvXEmg1H8aP6rCuw3IbyBsSys-NbXDXPIzPg3X7jj91Gjo4BYjhPzy0_YOZpA=w1427-h950-no");
   background-size: cover;
   height: 100%;
   background-attachment: fixed;
@@ -83,11 +89,11 @@ body {
 
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
 h1 {
-  font-size: 4.3rem;
+  font-size: 3.5rem;
   margin-top: 220px;
-  margin-bottom: 260px;
+  margin-bottom: 220px;
   color: rgb(0, 0, 0);
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
 }
 
@@ -191,7 +197,7 @@ i {
 
 .text {
   color: black;
-  font-size: 15px;
+  font-size: 20px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -202,73 +208,73 @@ i {
 }
 
 .picOne:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picTwo:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picThree:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picFour:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picFive:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picSix:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picSev:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picEight:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picNine:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picTen:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picEleven:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picTwelve:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picThirteen:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picForteen:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picFivteen:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picSixteen:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picSeventeen:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
 
 .picEightteen:hover .overlay {
-  opacity: 0.6;
+  opacity: 0.9;
 }
