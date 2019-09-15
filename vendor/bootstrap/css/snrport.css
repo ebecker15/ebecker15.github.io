@@ -1,8 +1,14 @@
+@media screen and (max-width: 600px) {
+  div.container-fluid {
+    font-size: 2rem;
+  }
+}
+
 /*styling not alike photography in the corner of page */
 #logoId{
   font-size: 0.9rem;
   color: rgb(37, 36, 36);
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   padding: 5px 5px 5px 5px;
   background: none;
 }
@@ -10,10 +16,10 @@
 /*styling "capture reality, capture vitality" */
 #styleSmallheader {
   font-size: 0.9rem;
-  margin-top: -255px;
-  padding-bottom: 20px;
+  margin-top: -205px;
+  padding-bottom: 10px;
   color: rgb(0, 0, 0);
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
 }
 
@@ -22,7 +28,8 @@
   font-size: 0.9rem;
   text-align: center;
   color: rgb(37, 36, 36);
-  font-family: 'Staatliches', cursive;
+  border-radius: 0rem;
+font-family: 'Playfair Display', serif;
 }
 
 /*styling padding for the nav*/
@@ -39,7 +46,7 @@
   margin-top: 10px;
   font-size: 0.9rem;
   color: rgb(14, 14, 14);
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   background-color: none;
   align-content: center;
 }
@@ -47,63 +54,44 @@
 /*styling for the portfolio section*/
 #portSection {
   background: white;
-  margin-top: 350px;
+  margin-top: 285px;
   padding: 40px 40px 40px 40px;
 }
-
-#abtSection {
-  background: white;
-  margin-top: 350px;
-  padding: 60px 40px 40px 40px;
-}
-
-#abtSectionwords {
-  text-align: center;
-  margin-bottom: 50px;
-  margin-top: 0px;
-  font-size: 1rem;
-  font-family: 'Staatliches', cursive;
-  border: none;
-}
-
 
 /*styling for the header of the portfolio section*/
 #styleArrow {
   text-align: center;
-  margin-top: -30px;
+  margin-top: -25px;
   font-size: 3rem;
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   background: none;
 }
 
 /*styling for the senior photos*/
 #seniorPhotoone {
   text-align: center;
-  align-content: center;
   margin-bottom: 100px;
-  margin-top: 25px;
+  margin-top: 0px;
   font-size: 1rem;
-  font-family: 'Staatliches', cursive;
-  /* border: solid; */
+font-family: 'Playfair Display', serif;
+  border: none;
 }
 
-#photoCaptions{
-  margin-top: 10px;
-  text-align: center;
-  font-size: 15px;
-  font-weight: bold;
+#photoCaptions {
+  margin-top: 20px;
+  margin-bottom: 2px;
+  font-family: 'Open Sans', sans-serif;
 }
-#photoCaptionssub{
-  margin-top: -15px;
-  text-align: center;
-  font-size: 15px;
+
+#photoCaptionssub {
+  font-family: 'Open Sans', sans-serif;
 }
 
 
 
 body {
   font-family: 'Oswald', sans-serif !important;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.74), rgba(71, 71, 71, 0.73)), url("https://lh3.googleusercontent.com/6bRO1fKGnj8wdzGShgkUKy6pxbKGibCOEcIBXmRRApxEnx9CZreiUl7mBkEifuZdhHMoA6KzkCfvJ-QTL_3bZSIucZiT3bd5c9ICuC7zvV2J6mw3LTN1jb1IT6FAsPqaK3VaVhg5gL_P8EzZygCP3lFkrvZdznApmjHsS5jyfwJboXVi1CWgwGT1QhbF_i2_Ujz1Gu7q0g3TmABpl8V6QusTNhTwmJhubtdnGcdq5dhectM-g6oxnxAo_W7STv6fSJKxpVvghT03y1AGb_7YtypR8i9w0eBS3F9_9Obo0b94fh01XoSPtjybtVPTVZAy0A-UrWqLmORzYl3UAhIVkrVyUg8rmo7GY2T1pCpKRHJ72TIl1RRPDwHcqXde0ITAK7XgbYzUupLrBA_Wd6kcY5Vlfmd1ttJaldx0Iz00iyiIlGCrc9Q-GowzCfFZHymAliJ3csAWa2KkqPjngsZt_oOxqP9X2QsHlQzRpkLgyGcgw8TLWowTYmH_zLRRAaHOcUBoUEu4hE_CEC3vNbQjjSVAgPJuo3q2Y1ja4WfPV30bkonsxWPE1BSktMYV4MTFrzDL3VpKoK-9gfHvaFgDJcrizOQ0Gm-BQOdQ6_7blQKlHqKA-mFGdxm0ytvtOAyIh1GytFzt4MkBSNCOl1-OgLWTUsevlJS_wraLvG2AuGRLecuLu4ip0TE=w1569-h950-no");
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.64), rgba(71, 71, 71, 0.63)), url("https://lh3.googleusercontent.com/PCZhRnnWO6WRjNdlklKt9aboaOGCwL23iq8HiZpPlxwH61Bhi0iRCklMi0R5u090sOZU84aUdvKzN3yx6_I3Jk-EAjhGinKkYcYZY6uyiUfUwBD5IRABHRBoYL7a5Nnd-fUafzS1zsegTYYtXqbOReXqA6YsSLnpTKVnaMK-7V5Aq2Xp52Ig9Jne67tmKEBURIgILx5VFeKp1kmcXt63r2tjPY_RiXJFuB5234q2r2LWzIJGKSwvtVATdYEYiPyMoRZU-IEBzcMvXqIdez0tmmeo1D-gJ1ftijCUKz5iphsAKrMKRB3CYuLer4HJvIEAUz3MlBL3BjQgL1dElYG8KdWPxFzhK9fk0yt7ld6Un12K4MEAqRvJp4dS7dEJgGF2D0sFZbd1F9b1xXy_7mTVtzTEp6wsXJ7gxJ7nCaXRqw7X_sRvYvzslHgVwuu_1ZcWrgqaDXa7ztj5LtQxLcbliSxJ_abCRe8k-QEF2OGsgiCuE46hwTR66Wazhsc_XOdYWbBFGHHN676N9dppTUs-mfgkCIlrkPhybG7boTX8DTUcWZw1ZQ9BSGdTvu-9Hn-GJywWEoU4UtVNoVKRIbmKpSMvZHSPpHLq14_mgR4prWgPBG7gNPn2TddBOiRnUKy3jlEBVNLwlTgCvHBQKRPI5lQ7esKip5f1Yg-Ghz6-Cz449qAu_xJxozg=w1425-h950-no");
   background-size: cover;
   height: 100%;
   background-attachment: fixed;
@@ -111,16 +99,16 @@ body {
 
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
 h1 {
-  font-size: 4.3rem;
-  margin-top: 320px;
-  margin-bottom: 260px;
+  font-size: 3.3rem;
+  margin-top: 220px;
+  margin-bottom: 220px;
   color: rgb(0, 0, 0);
-  font-family: 'Staatliches', cursive;
+font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
 }
 
 a:hover{
-  background: rgb(255, 255, 255);
+  background: rgb(255, 255, 255, 0.7);
 }
 
 .active{
@@ -146,24 +134,14 @@ a:hover{
   height: 400px;
   object-fit: cover;
 }
-.sndRow {
-  padding: 0rem;
-  background-color: #fff;
-  border: none;
-  margin: 0px;
-  border-radius: 0rem;
-  width: 300px; /* You can set the dimensions to whatever you want */
-  height: 400px;
-  object-fit: cover;
-}
 
-.lsndRow {
+.thickRow {
   padding: 0rem;
   background-color: #fff;
   border: none;
   margin: 0px;
   border-radius: 0rem;
-  width: 300px; /* You can set the dimensions to whatever you want */
+  width: 800px; /* You can set the dimensions to whatever you want */
   height: 400px;
   object-fit: cover;
 }
@@ -207,6 +185,106 @@ i {
 
 
 
+/*Testing hover text*/
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgb(255, 255, 255);
+}
 
-/*Attempt at buttons*/
+.text {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.picOne:hover .overlay {
+  opacity: 0.9;
+}
+
+.picTwo:hover .overlay {
+  opacity: 0.9;
+}
+
+.picThree:hover .overlay {
+  opacity: 0.9;
+}
+
+.picFour:hover .overlay {
+  opacity: 0.9;
+}
+
+.picFive:hover .overlay {
+  opacity: 0.9;
+}
+
+.picSix:hover .overlay {
+  opacity: 0.9;
+}
+
+.picSev:hover .overlay {
+  opacity: 0.9;
+}
+
+.picEight:hover .overlay {
+  opacity: 0.9;
+}
+
+.picNine:hover .overlay {
+  opacity: 0.9;
+}
+
+.picTen:hover .overlay {
+  opacity: 0.9;
+}
+
+.picEleven:hover .overlay {
+  opacity: 0.9;
+}
+
+.picTwelve:hover .overlay {
+  opacity: 0.9;
+}
+
+.picThirteen:hover .overlay {
+  opacity: 0.9;
+}
+
+.picForteen:hover .overlay {
+  opacity: 0.9;
+}
+
+.picFivteen:hover .overlay {
+  opacity: 0.9;
+}
+
+.picSixteen:hover .overlay {
+  opacity: 0.9;
+}
+
+.picSeventeen:hover .overlay {
+  opacity: 0.9;
+}
+
+.picEightteen:hover .overlay {
+  opacity: 0.9;
+}
