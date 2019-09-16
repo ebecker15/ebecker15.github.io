@@ -54,7 +54,7 @@ font-family: 'Playfair Display', serif;
 /*styling for the portfolio section*/
 #portSection {
   background: white;
-  margin-top: 290px;
+  margin-top: 190px;
   padding: 40px 40px 40px 40px;
 }
 
@@ -92,7 +92,7 @@ body {
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
 h1 {
   font-size: 3.3rem;
-  margin-top: 220px;
+  margin-top: 180px;
   margin-bottom: 220px;
   color: rgb(0, 0, 0);
 font-family: 'Playfair Display', serif;
