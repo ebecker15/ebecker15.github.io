@@ -54,7 +54,7 @@ font-family: 'Playfair Display', serif;
 /*styling for the portfolio section*/
 #portSection {
   background: white;
-  margin-top: 290px;
+  margin-top: 200px;
   padding: 40px 40px 40px 40px;
 }
 
@@ -78,12 +78,76 @@ font-family: 'Playfair Display', serif;
 font-family: 'Playfair Display', serif;
   border: none;
 }
+#sessionDescrip {
+  font-size: 0.9rem;
+  text-align: left;
+  color: rgb(0,, 0, 0);
+  border-radius: 0rem;
+ font-family: 'Playfair Display', serif;
+
+  margin-top: -30px;
+  margin-left: 100px;;
+  margin-right: 100px;
+}
+
+#sessionHeader {
+  font-size: 1.5rem;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  border-radius: 0rem;
+  font-family: 'Playfair Display', serif;
+  margin-left: 100px;;
+  margin-right: 100px;
+  margin-top: 60px;
+
+}
+
+#sessionContain {
+  background-color: rgb(247, 190, 0, 0.3);
+  margin-bottom: 50px;
+  width: 300px;
+}
+
+#sessionContain2 {
+  background-color: rgb(102, 209, 202, 0.4);
+  margin-bottom: 50px;
+  width: 300px;
+}
 
 
+#sessionContain3 {
+  background-color: rgb(0, 56, 5, 0.3);
+  margin-bottom: 50px;
+  width: 300px;
+}
+
+#sessionContain4 {
+  background-color: rgb(247, 190, 0, 0.3);
+  margin-bottom: 50px;
+  width: 300px;
+}
+
+#styleBooknow {
+ padding-top: 5px;
+ padding-bottom: 5px;
+ color: #5fbbc9;
+}
+
+#styleBooknow2 {
+ padding-top: 5px;
+ padding-bottom: 5px;
+ color: rgb(247, 190, 0);
+}
+
+#styleBooknow3 {
+ padding-top: 5px;
+ padding-bottom: 5px;
+ color: white;
+}
 
 body {
   font-family: 'Oswald', sans-serif !important;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.54), rgba(71, 71, 71, 0.53)), url("https://lh3.googleusercontent.com/Tm4vUYNH4qN0QJZ3HZ9oMhgyrJO98T2z12zfTeE_KLXNoS9eFFhXBnZhTQScd-DXCJnSLADfsvYzxdWJyg3Z5m9cvqMN2wF-rIaoNExBg7OZvHrTImTRIhtIxr-w-bA88uyWtT9VB80Ys7MEsO3dwFt9G3NBGJjhCy9utRCivt_5vN1w1fcv3taHCLjnvSXbzJioDqoRx8wN-k9L0BdD_iDYI4PKrucysXKjaD5PMqxTGUzFsKsL02quOz0CbZeo7kr9bo00LT_CXG_RoGQ5h9fOChv3aIJAkNIMOKIjuj-bZZIBXZzyoFsy5-CEhMWGgBJpT6WCJ-maEikT57pgfMuSrWFODHiEfZxCbwbfTspb7g6JHdgm_8afAX0A5kqwEKDxvv1cJlL8d4-cRZE1vxmsO5BH3Z3Fwoi7nVQArscCe10QbGsKp5eIRP6zLpWM8nmd77yAUvkxYYyilUmKw7HvkEyChLfZBizvGgmH6K6un8KvGGugNw4Rbl06xPTDxIhUCYLMY-Ki7ODDUn-RnzaIDaTvxq330T5hR5hCFOrCEpiyNk7nR_XW_ad0eeNuJJ9PAbFvrxrs7abFGfRl5PSTEQzyx8Awm1EPhYp648SbL0Q8kCYb0VDH13ysvVIARQ6Bvd10wNGpXSE9sDHY-9c1J4ptO-zftgv9x9XAcGCyAzgJrmYgaUg=w1425-h950-no");
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.54), rgba(71, 71, 71, 0.53)), url("https://lh3.googleusercontent.com/BPMDjvC-GKJW6EJLY3Cr5F5E2ptq4Njecaid3xwzc-83RtsH6i6MJHkSblOJxRYcMMccnt04x-hodbPMEdBoU3NzwYMvUkAL74Qotw3Ppq4Pa_Vpt5VdGOeVFE6wrYjAGRivUOwqd5uBeex_nEwWalOzMn08TYMvrJBS5_SYjWQctc1Mjn4etTi2g-54f1y_8iZXdMAhD8IX6PBEk37uY2nRYKNjWeXc8ZWD_ONB8qEjKSECf_9uo2hJzVxGUQA6qIrYrwAw1A80Z5y7QiYo6KNxSWu5gjJhYaK5Fdd1r6DOHQKjYnuqNIcKRk_IQpo8c1it7lm54Fj4PNiuVqDIlR6to6jN0CkCRSPs8emAhMPd-fjQ7VlCpFj26OwCTS_Feib0P28bA5XTj-l8MqhTXYaEaB5LTtDbcvh8cnIEwVoK88WZSUIupEjCkt0TKOXI6AYmzoHyJtigPll-VfGhe8QY0eGZhWgQ4u40-pXM80YGWdFonTbg79cMppzu7AxsE7z-piA3kt4Ys-WZWdI9HKy-a19Aqbbx7orEJFf3Jr6c0XTX0JBUD1o4sc40djwihA1napHblbuJ740GacbiIJElH-TFmVcRcS4zhnHXxAhOrPEe9C_PNbIteulIsRBmgQwhYn1eYIm7JEmqTIAQ2FgzT9hkwiQxRSG19RKaUmzClQBeDrbnVKY=w1572-h950-no");
   background-size: cover;
   height: 100%;
   background-attachment: fixed;
@@ -92,7 +156,7 @@ body {
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
 h1 {
   font-size: 3.3rem;
-  margin-top: 220px;
+  margin-top: 190px;
   margin-bottom: 220px;
   color: rgb(0, 0, 0);
 font-family: 'Playfair Display', serif;
@@ -100,7 +164,9 @@ font-family: 'Playfair Display', serif;
 }
 
 a:hover{
-  background: rgb(255, 255, 255, 0.7);
+  /* background: rgb(255, 255, 255, 0.7); */
+  text-decoration: none;
+  font-size: 1rem;
 }
 
 .active{
