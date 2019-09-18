@@ -54,7 +54,7 @@ font-family: 'Playfair Display', serif;
 /*styling for the portfolio section*/
 #portSection {
   background: white;
-  margin-top: 225px;
+  margin-top: 180px;
   padding: 40px 40px 40px 40px;
 }
 
@@ -91,7 +91,7 @@ font-family: 'Playfair Display', serif;
 
 body {
   font-family: 'Oswald', sans-serif !important;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.64), rgba(71, 71, 71, 0.63)), url("https://lh3.googleusercontent.com/PgiLGZ8zReGKrME9UHHlWEEFzzsfIwEWovWDQV6k75Pf5ZgfbqKmhDQkxz0nPZuan_o5QLJV8rM76QSX-86Fup0qYDoImpOo4VGiI8lKXG94_ijOgWGk-tS8_rRYxpQDo5AYtucRvUvpfzXodpUb_uuALJXtCuauumor_6rv4YrBzEO7G_JOBvulEeVjFGBA4wTv4EKmWqdWsD5ocKAoHiP_Cyto66Y_XawnJJuXtpb9UleHxsbxB6SKhcsO77A9I_j_XBy30rJod9ziVTLoJsz16y--FWmM3wpE94qa-HwEm1F-qgsfzDMStra9Sz3g0Ipk1lXqaroqV5X1e9VZ37TUm8lYXzBBMGLuuqRSFqzkAxCeGanOF0ISQc-psC9eheCS0cQxa-OLCbbgX6J74T7mJHdbA7-T0w5-lP9J3tEPbMq0FHu9m9B-cxBe5xPYiNjXWiYBwDMzW8mLkPfOjAKheT67OP7yP5UxDoRIQwbieZjUl9n91rYfKBCF0OsxXXrwBzW-DzBUC-th_c0ifEfW3nCPCXEBhFFbSLVBE3G4TYuykKnUpkJo077EuWfmLQgIoouT4pd3dzs-XpuWN9Nh3f3HbKR9vZS3WCAkKbmodIc-2-l27X6MrMN41pQoKjBByT8oQu4ueP7yj3uZakTmCoGYS-GBP7eMzcMY6CFa-PFRlYr6sf0=w798-h950-no");
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.444), rgba(71, 71, 71, 0.43)), url("https://lh3.googleusercontent.com/pnac4gtf_YEVIfDq2Q5Jnrjuj080_7Q48nGdfcpUYeXNB1Gh_l4_yULFIqBMYQBRAfUawIxSYFnFfQNt8_KgqZh74lsU8zSPTxyOAuF2fmhuMETc8vUhHOfMYNd51i3D2wfFHN6aYa7j7SATstz57589uXn2g0pQTCaUbbhLzYZCcuXJ1yB1yej6EIOG5-6HF2oOWey6VhttECfbMqBYPwdXDKAdb_uzGShV6R28Wi6e4YhKOu_CDjifdU4_aH6Tdj9_v0i2qlv_sQ87_wvtdB5skjiFvyiM5VQY7Pp7jhwfgR4UbCBM-SCVygemHnxaUhqVLQ6WwJla37SJ8GgPP3ZbDnBodBQkpu5fEwaG57QF5za5zhDB_pQPr9gjPUdQtx8OurkydoLWKtE8Y4y-OQNzAYTvEZ1qchGIxmTmE_j7rzqCzboCICaJ0DHzVflPflomhSTiD6Od8G8btjR2B_xYwLd7dar8wKJSKAwJgFv9MyFeUEcE9mqekJfW5iew09sEIJyZlB7kC-vGecs3nLLpKSyZMrctPbXGXvfXUZ0QnuNMo0mjVe2S1X0_fI1aKvOCANiVwZQ4dVFUbVWkE0IkKP2l_Fc6lytxUoHiXG8-ayi_Aq_Vr6E3z6Gu3OnjBRbjxzFXiTI0VqzHp5DNPuGn94aZOOo9B-OfPgp1Tkboh6l1cYOT0ZE=w1699-h950-no");
   background-size: cover;
   height: 100%;
   background-attachment: fixed;
@@ -100,9 +100,9 @@ body {
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
 h1 {
   font-size: 3.3rem;
-  margin-top: 180px;
+  margin-top: 280px;
   margin-bottom: 220px;
-  color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0, 0.8);
 font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
 }
