@@ -80,10 +80,54 @@ font-family: 'Playfair Display', serif;
 }
 
 
+#sessionDescrip {
+  font-size: .9rem;
+  text-align: center;
+  color: rgb(0,, 0, 0);
+  border-radius: 0rem;
+ font-family: 'Playfair Display', serif;
+
+  margin-top: 70px;
+  margin-left: 100px;;
+  margin-right: 100px;
+  margin-bottom: 100px;
+}
+
+#sessionHeader {
+  font-size: 1.9rem;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  border-radius: 0rem;
+  font-family: 'Playfair Display', serif;
+  /* margin-left: 100px;;
+  margin-right: 100px;
+  margin-top: 60px; */
+
+}
+
+#sessionContain {
+  background-color: rgb(247, 190, 0, 0.5);
+  margin-bottom: 50px;
+  width: 300px;
+}
+
+#sessionContain2 {
+  background-color: rgb(102, 209, 202, 0.3);
+  margin-bottom: 50px;
+  width: 300px;
+}
+
+
+#sessionContain3 {
+  background-color: rgb(102, 209, 202, 0.3);
+  margin-bottom: 50px;
+  width: 300px;
+}
+
 
 body {
   font-family: 'Oswald', sans-serif !important;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.54), rgba(71, 71, 71, 0.53)), url("https://lh3.googleusercontent.com/FQYrjmkjNdZdLa30FqIiT9kg4iJ4O_kg4DlGtfmkj0nuaRF_h5iNOGPEEj3WT8-t2VJSLUemnZpwheHhO0dlHx2Atgu08RURYz89zmEyMl_zjv4uXqV2WYacRX_rdsqi83w5VF_UeJJABodTiR_45mGMu9y3jxZytZt4MxXk_Z2xMc4v_BEukcztths1gtFnCelqDjmvBQjkOCaXbWhYQiNVKm3r5AiV5ZmaVM1zp7jbDWD36uTds73B2cIGk1du5C--aMpQtBbux_EPsoLSoXAxUwbl6R-cvMbzTnzyFYvlu7eTVVLa_jjIoVzG129bO7qTbbTP72lXWmLs6CwBQCc0YhDyN-8EESmAKgMuaiwWY9CnQZ4AREcNIeRExr2lwmClAfOs1d5TcAWOZ_YOxnf-bhZhHPx2glRzhI964hldeHb5P4ALSli3OIpVDkilYA0Bmbc6OvPOWPT_xDU89lQWqA6sctRf4vysFICSiR6XKWMN7apUBgPQSXW9tcDirlVWm73cYvVaRclcSks2PG54p5ql-Hh4oa5tPI-RcTd39QfL-OnqwKSHBHdzAI_77izBo6Vwj0S-qzQqOn2A8ndoeLhnZZoYGZeJqz9407lOCwr-mv6ek1wg5OBvXEmg1H8aP6rCuw3IbyBsSys-NbXDXPIzPg3X7jj91Gjo4BYjhPzy0_YOZpA=w1427-h950-no");
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.54), rgba(71, 71, 71, 0.53)), url("https://lh3.googleusercontent.com/baZK0N6XENkE6FVwaKxLHPkXkC3paU5qlZtlxUoeZXlBjhzqZ9-e-FOrGfyUsE-7KgIOE5RQXwBw9dUtAbnwkAwUPZ5fZqVD28bU_OVsuftHwOQV4SbavZ72TlR7-qGB0y-H2En_V2RcqQk5Ji3D3ZuTPvKhBws0v9hwM9F0IiC7YmhFl6UrMppnLvjmJ8ATWr3RNiqd_LLydQzNGrWQEbG2k7c4u2Np9oyjV4S155ZowJ-afaLHZQ6XHv9hYYBb89dwwXFnK3or8YZZktmznnQaQGz1Bc5jwpbvMhWVg6ECzLK1AWZiKZGtUD3wcHQXO_AjEIWDFdK4TXtt_XVqI_WkzhAls1VvvjUzhumAdFu6EEpYJW-MAIi1hUFJGM1Qn0uUIPSRSIlurRVBtCYQ0YcTrKIh4nsdbFZcva7aZhmz96r-3mGMgab7ToE2yKYII19E9eNkxcqvakYrN261Td9Dc6yN2b3snJvcEc10CFrPunUSVHO0hS-qdlG33UQjWREOyJrMvePGX4LydBTqAWkd1m7kLsVQl8fQQuRCVb4qba7KSHPiCExMCKg9hHTae3THI5TghqwzJczOxlRGkyAQTss7LhYhfkFN8LlhIR6CGhKPUcTmI_poBGKWUWlmPWB4UZSv6-o1vtwBY9G7F3Ue-8nlbvPypawkky1u819nTIHGSq1OExU=w1427-h950-no");
   background-size: cover;
   height: 100%;
   background-attachment: fixed;
@@ -101,7 +145,9 @@ font-family: 'Playfair Display', serif;
 
 a:hover{
   background: rgb(255, 255, 255, 0.7);
+  text-decoration: none;
 }
+
 
 .active{
   background: white;
