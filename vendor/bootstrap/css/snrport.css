@@ -70,7 +70,7 @@ font-family: 'Playfair Display', serif;
 /*styling for the senior photos*/
 #seniorPhotoone {
   text-align: center;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   margin-top: 0px;
   font-size: 1rem;
 font-family: 'Playfair Display', serif;
@@ -91,7 +91,7 @@ font-family: 'Playfair Display', serif;
 
 body {
   font-family: 'Oswald', sans-serif !important;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.444), rgba(71, 71, 71, 0.43)), url("https://lh3.googleusercontent.com/-6n7XxsRVJ-4KZhpEKlY9dVzB_l0PCD_3sbvbeI_bxWjruXUh6HNmdIJcSGOLMgnyifzpQ0Ly5Xdy5jYpHVrZKMywG4y3JKQR6x33klpPZ8YNWy2CZMiZYhxc3HJIgNwu7PIY1kXO_MZ8dO1j6UbX4aKh2Phk7wACBF_XM9VaUSxqeu9HRPFIYG4nM2WH76435Frt-sqpwmf_oe2qbpex4p2Y1ZKh916072WidsjMQi8HRUa_y6gPeAQvhf3_wq6A9VKrHgey3VM1xWVP4B7wc62zBfUuxywsEO9aLBNDaaPueTEH6S6parNng0Lq28c8KZ5cyy_rmRBLbjM1acmdlaeULHu349KFuRjKQFGze1K8ByaRNHq9UoR0ApWKz4gDBLXJ-vnWDIcRqu0JiHA1bcI_OZuOoBIC3kL6rkumkXMo_bD1LYtgBYRat5quX-g5LDmcMVt4Ch9AO7ou5jkSL_tLg7BZx68v_1NzanLWdIRuKvOPZOCIr0yAxipDq7FDDursK-lRuIcVIft9CKNIWAsygs7HA0-GtTpeNEAwkzEEqjwTTrGVqmPobDxXtvf9-Cq05-SqpqahQ0ZM0sUM5V8CL-pgdD_FcG6vJOhVDSufMj7gG9ueuElVGIrq9Wcj3quhLR8bGDUXN28UwY3eshFXlkngyJLbu_USsk5NehG1iB1SyMjCdY=w1699-h950-no");
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.444), rgba(71, 71, 71, 0.43)), url("https://lh3.googleusercontent.com/fGbTZWaz1M4wqpY2JwhOP_xoE6Z2tENFrTWBM_8O-cpJPjjPzFhbMljtEEcUdne_qJH0TOCb8NbgMbLU3c6TB-flXA7qOW8Jps679_UVCRAm-XiE8des8Uq1FOcmvQvlYCr-iiYsp1KoCzm92hTi9GTF4hG4gUFDHTfxYXr-vOm9lZQpqOGiZPqTD6SftwDDGYpAnhkGyKtMYA47Ik6Qaki6W5xC39lZFwN710qnEQRQ27r2_9Qwupt2qK9bvzbjn24wILoyFlbQe2eearQJOQrBxfxpzFUv5bJ0xxhhJwevxLOV3GSYE1UgPjGqnQgx_XkUDKFnvWqKnFAWRZKMKoaYKbuKR9ijbjrwKh4YowSWvQ9siuh4qDPnx_tqx80F5c5LxAaduPQOt_7f__FI8KyscWBte37nXnsNCRnYJzcSx4Ww7AKA85bSkUV2Gvd1XkrJ_-xaqgGekvlIhxl5602iM4SXO7ABdMLbEJRF12D4L8F5QqMXbYMLGZvb_4OmjshVNPhPBMlYi7V8LNiRFPPCyluFdWoftHlHKMXbxUQ6F6_Ukmm8GdjVttbgyNs1zbn1f6qyZBlc2fiUv8rsPNgpRhg9lvB2JAo4kEam3JF8-zOsVKT_FKIHnRF71UU7uqBes3Hccam-gPP8yIpi-xAzBybs-a9vrVmI2ymIjswf-4bmZcBTC3s=w1699-h950-no");
   background-size: cover;
   height: 100%;
   background-attachment: fixed;
