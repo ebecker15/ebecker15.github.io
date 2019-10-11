@@ -5,10 +5,10 @@
 }
 
 /*styling not alike photography in the corner of page */
-#logoId{
+#logoId {
   font-size: 0.9rem;
   color: rgb(37, 36, 36);
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   padding: 5px 5px 5px 5px;
   background: none;
 }
@@ -19,7 +19,7 @@ font-family: 'Playfair Display', serif;
   margin-top: -205px;
   padding-bottom: 10px;
   color: rgb(0, 0, 0);
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
 }
 
@@ -29,7 +29,7 @@ font-family: 'Playfair Display', serif;
   text-align: center;
   color: rgb(37, 36, 36);
   border-radius: 0rem;
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
 }
 
 /*styling padding for the nav*/
@@ -46,7 +46,7 @@ font-family: 'Playfair Display', serif;
   margin-top: 10px;
   font-size: 0.9rem;
   color: rgb(14, 14, 14);
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   background-color: none;
   align-content: center;
 }
@@ -63,7 +63,7 @@ font-family: 'Playfair Display', serif;
   text-align: center;
   margin-top: -25px;
   font-size: 3rem;
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   background: none;
   margin-left: 10px;
   margin-right: 10px;
@@ -75,18 +75,19 @@ font-family: 'Playfair Display', serif;
   margin-bottom: 50px;
   margin-top: 0px;
   font-size: 1rem;
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   border: none;
 }
+
 #sessionDescrip {
   font-size: 0.9rem;
   text-align: left;
-  color: rgb(0,, 0, 0);
+  color: rgb(0, , 0, 0);
   border-radius: 0rem;
- font-family: 'Playfair Display', serif;
-
+  font-family: 'Playfair Display', serif;
   margin-top: -30px;
-  margin-left: 100px;;
+  margin-left: 100px;
+  ;
   margin-right: 100px;
   margin-bottom: 100px;
 }
@@ -97,10 +98,10 @@ font-family: 'Playfair Display', serif;
   color: rgb(0, 0, 0);
   border-radius: 0rem;
   font-family: 'Playfair Display', serif;
-  margin-left: 100px;;
+  margin-left: 100px;
+  ;
   margin-right: 100px;
   margin-top: 60px;
-
 }
 
 #sessionContain {
@@ -115,30 +116,28 @@ font-family: 'Playfair Display', serif;
   width: 300px;
 }
 
-
 #sessionContain3 {
   background-color: rgb(102, 209, 202, 0.3);
   margin-bottom: 50px;
   width: 300px;
 }
 
-
 #styleBooknow {
- padding-top: 5px;
- padding-bottom: 5px;
- color: #5fbbc9;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #5fbbc9;
 }
 
 #styleBooknow2 {
- padding-top: 5px;
- padding-bottom: 5px;
- color: rgb(247, 190, 0);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: rgb(247, 190, 0);
 }
 
 #styleBooknow3 {
- padding-top: 5px;
- padding-bottom: 5px;
- color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
 }
 
 body {
@@ -155,17 +154,17 @@ h1 {
   margin-top: 210px;
   margin-bottom: 230px;
   color: rgb(0, 0, 0, 0.9);
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
 }
 
-a:hover{
+a:hover {
   background: rgb(255, 255, 255, 0.7);
   text-decoration: none;
   font-size: 1rem;
 }
 
-.active{
+.active {
   background: white;
 }
 
@@ -184,7 +183,8 @@ a:hover{
   border: none;
   margin: 0px;
   border-radius: 0rem;
-  width: 300px; /* You can set the dimensions to whatever you want */
+  width: 300px;
+  /* You can set the dimensions to whatever you want */
   height: 400px;
   object-fit: cover;
 }
@@ -195,7 +195,8 @@ a:hover{
   border: none;
   margin: 0px;
   border-radius: 0rem;
-  width: 800px; /* You can set the dimensions to whatever you want */
+  width: 800px;
+  /* You can set the dimensions to whatever you want */
   height: 700px;
   object-fit: cover;
 }
@@ -205,7 +206,7 @@ a:hover{
 }
 
 .nav-pills .nav-link.active {
-  background-color:  #007bff;
+  background-color: #007bff;
 }
 
 /*for arrow*/
@@ -235,10 +236,12 @@ i {
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
 }
+
 /*Testing scroll down button*/
 #section04 a {
   padding-top: 60px;
 }
+
 #section04 a span {
   position: absolute;
   top: 0;
@@ -254,33 +257,34 @@ i {
   animation: sdb04 2s infinite;
   box-sizing: border-box;
 }
+
 @-webkit-keyframes sdb04 {
   0% {
     -webkit-transform: rotate(-45deg) translate(0, 0);
   }
+
   20% {
     -webkit-transform: rotate(-45deg) translate(-10px, 10px);
   }
+
   40% {
     -webkit-transform: rotate(-45deg) translate(0, 0);
   }
 }
+
 @keyframes sdb04 {
   0% {
     transform: rotate(-45deg) translate(0, 0);
   }
+
   20% {
     transform: rotate(-45deg) translate(-10px, 10px);
   }
+
   40% {
     transform: rotate(-45deg) translate(0, 0);
   }
 }
-
-
-
-
-
 
 /*Testing hover text*/
 .image {

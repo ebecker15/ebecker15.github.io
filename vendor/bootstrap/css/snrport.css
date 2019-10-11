@@ -5,10 +5,10 @@
 }
 
 /*styling not alike photography in the corner of page */
-#logoId{
+#logoId {
   font-size: 0.9rem;
   color: rgb(37, 36, 36);
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   padding: 5px 5px 5px 5px;
   background: none;
 }
@@ -19,7 +19,7 @@ font-family: 'Playfair Display', serif;
   margin-top: -205px;
   padding-bottom: 10px;
   color: rgb(0, 0, 0);
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
 }
 
@@ -29,7 +29,7 @@ font-family: 'Playfair Display', serif;
   text-align: center;
   color: rgb(37, 36, 36);
   border-radius: 0rem;
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
 }
 
 /*styling padding for the nav*/
@@ -46,7 +46,7 @@ font-family: 'Playfair Display', serif;
   margin-top: 10px;
   font-size: 0.9rem;
   color: rgb(14, 14, 14);
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   background-color: none;
   align-content: center;
 }
@@ -63,7 +63,7 @@ font-family: 'Playfair Display', serif;
   text-align: center;
   margin-top: -25px;
   font-size: 3rem;
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   background: none;
 }
 
@@ -73,7 +73,7 @@ font-family: 'Playfair Display', serif;
   margin-bottom: 50px;
   margin-top: 0px;
   font-size: 1rem;
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   border: none;
 }
 
@@ -87,16 +87,15 @@ font-family: 'Playfair Display', serif;
   font-family: 'Open Sans', sans-serif;
 }
 
-
 #sessionDescrip {
   font-size: .9rem;
   text-align: center;
-  color: rgb(0,, 0, 0);
+  color: rgb(0, , 0, 0);
   border-radius: 0rem;
- font-family: 'Playfair Display', serif;
-
+  font-family: 'Playfair Display', serif;
   margin-top: 65px;
-  margin-left: 100px;;
+  margin-left: 100px;
+  ;
   margin-right: 100px;
   margin-bottom: 100px;
 }
@@ -110,7 +109,6 @@ font-family: 'Playfair Display', serif;
   /* margin-left: 100px;;
   margin-right: 100px;
   margin-top: 60px; */
-
 }
 
 #sessionContain {
@@ -124,7 +122,6 @@ font-family: 'Playfair Display', serif;
   margin-bottom: 50px;
   width: 300px;
 }
-
 
 #sessionContain3 {
   background-color: rgb(102, 209, 202, 0.3);
@@ -146,16 +143,16 @@ h1 {
   margin-top: 280px;
   margin-bottom: 220px;
   color: rgb(0, 0, 0, 0.8);
-font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
 }
 
-a:hover{
+a:hover {
   background: rgb(255, 255, 255, 0.7);
   text-decoration: none;
 }
 
-.active{
+.active {
   background: white;
 }
 
@@ -168,13 +165,15 @@ a:hover{
 }
 
 .thinRow {
-  padding-left: 0px;https://lh3.googleusercontent.com/PgiLGZ8zReGKrME9UHHlWEEFzzsfIwEWovWDQV6k75Pf5ZgfbqKmhDQkxz0nPZuan_o5QLJV8rM76QSX-86Fup0qYDoImpOo4VGiI8lKXG94_ijOgWGk-tS8_rRYxpQDo5AYtucRvUvpfzXodpUb_uuALJXtCuauumor_6rv4YrBzEO7G_JOBvulEeVjFGBA4wTv4EKmWqdWsD5ocKAoHiP_Cyto66Y_XawnJJuXtpb9UleHxsbxB6SKhcsO77A9I_j_XBy30rJod9ziVTLoJsz16y--FWmM3wpE94qa-HwEm1F-qgsfzDMStra9Sz3g0Ipk1lXqaroqV5X1e9VZ37TUm8lYXzBBMGLuuqRSFqzkAxCeGanOF0ISQc-psC9eheCS0cQxa-OLCbbgX6J74T7mJHdbA7-T0w5-lP9J3tEPbMq0FHu9m9B-cxBe5xPYiNjXWiYBwDMzW8mLkPfOjAKheT67OP7yP5UxDoRIQwbieZjUl9n91rYfKBCF0OsxXXrwBzW-DzBUC-th_c0ifEfW3nCPCXEBhFFbSLVBE3G4TYuykKnUpkJo077EuWfmLQgIoouT4pd3dzs-XpuWN9Nh3f3HbKR9vZS3WCAkKbmodIc-2-l27X6MrMN41pQoKjBByT8oQu4ueP7yj3uZakTmCoGYS-GBP7eMzcMY6CFa-PFRlYr6sf0=w798-h950-no
-  padding-right: 0px;
+  padding-left: 0px;
+  https: //lh3.googleusercontent.com/PgiLGZ8zReGKrME9UHHlWEEFzzsfIwEWovWDQV6k75Pf5ZgfbqKmhDQkxz0nPZuan_o5QLJV8rM76QSX-86Fup0qYDoImpOo4VGiI8lKXG94_ijOgWGk-tS8_rRYxpQDo5AYtucRvUvpfzXodpUb_uuALJXtCuauumor_6rv4YrBzEO7G_JOBvulEeVjFGBA4wTv4EKmWqdWsD5ocKAoHiP_Cyto66Y_XawnJJuXtpb9UleHxsbxB6SKhcsO77A9I_j_XBy30rJod9ziVTLoJsz16y--FWmM3wpE94qa-HwEm1F-qgsfzDMStra9Sz3g0Ipk1lXqaroqV5X1e9VZ37TUm8lYXzBBMGLuuqRSFqzkAxCeGanOF0ISQc-psC9eheCS0cQxa-OLCbbgX6J74T7mJHdbA7-T0w5-lP9J3tEPbMq0FHu9m9B-cxBe5xPYiNjXWiYBwDMzW8mLkPfOjAKheT67OP7yP5UxDoRIQwbieZjUl9n91rYfKBCF0OsxXXrwBzW-DzBUC-th_c0ifEfW3nCPCXEBhFFbSLVBE3G4TYuykKnUpkJo077EuWfmLQgIoouT4pd3dzs-XpuWN9Nh3f3HbKR9vZS3WCAkKbmodIc-2-l27X6MrMN41pQoKjBByT8oQu4ueP7yj3uZakTmCoGYS-GBP7eMzcMY6CFa-PFRlYr6sf0=w798-h950-no
+    padding-right: 0px;
   background-color: #fff;
   border: none;
   margin: 0px;
   border-radius: 0rem;
-  width: 300px; /* You can set the dimensions to whatever you want */
+  width: 300px;
+  /* You can set the dimensions to whatever you want */
   height: 400px;
   object-fit: cover;
 }
@@ -185,7 +184,8 @@ a:hover{
   border: none;
   margin: 0px;
   border-radius: 0rem;
-  width: 800px; /* You can set the dimensions to whatever you want */
+  width: 800px;
+  /* You can set the dimensions to whatever you want */
   height: 400px;
   object-fit: cover;
 }
@@ -195,7 +195,7 @@ a:hover{
 }
 
 .nav-pills .nav-link.active {
-  background-color:  #007bff;
+  background-color: #007bff;
 }
 
 /*for arrow*/
@@ -225,10 +225,8 @@ i {
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
 }
+
 /*Testing scroll down button*/
-
-
-
 /*Testing hover text*/
 .image {
   display: block;
