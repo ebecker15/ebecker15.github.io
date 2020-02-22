@@ -81,25 +81,26 @@
 
 #sessionDescrip {
   font-size: 0.9rem;
-  text-align: left;
+  text-align: center;
   color: rgb(0, , 0, 0);
   border-radius: 0rem;
   font-family: 'Playfair Display', serif;
   margin-top: -30px;
-  margin-left: 100px;
+  margin-left: 10px;
   ;
-  margin-right: 100px;
+  margin-right: 10px;
+  margin-bottom: 40px;
 }
 
 #sessionHeader {
   font-size: 1.5rem;
-  text-align: left;
+  text-align: center;
   color: rgb(0, 0, 0);
   border-radius: 0rem;
   font-family: 'Playfair Display', serif;
-  margin-left: 100px;
+  margin-left: 10px;
   ;
-  margin-right: 100px;
+  margin-right: 10px;
   margin-top: 60px;
 }
 
