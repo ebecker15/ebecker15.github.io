@@ -187,7 +187,7 @@ a:hover {
   object-fit: cover;
 }
 
-.thickRow {
+/* .thickRow {
   padding: 0rem;
   background-color: #fff;
   border: none;
@@ -197,7 +197,7 @@ a:hover {
   /* You can set the dimensions to whatever you want */
   height: 700px;
   object-fit: cover;
-}
+} */
 
 .caption {
   padding: 20px 20px;
