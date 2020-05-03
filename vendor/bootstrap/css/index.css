@@ -125,9 +125,10 @@
 body {
   font-family: 'Oswald', sans-serif !important;
   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.54), rgba(71, 71, 71, 0.53)), url("https://lh3.googleusercontent.com/jihaDkEds1VTINE2S2NkcxxVzYoaZuD_d160DXvTQ-V61qrjxQCiugHq1ZA-CvbJsngLPvzjeyIQsIqrw81LK_k5YivMJZnG7St-2_FnOGLHCzusNC9c0qXWjagUlZQlg56H3WLPFZzQwQTHh4Le20nHuUEWgVdNlu7IFUdA29h0fSfRrTXZsQCY8C_TGIFzBDh6tdsgBl9EMsuer6p3CgeAm2ykWMf7B3NRE6XYxw0v4plJ8HDJF8Qvgcm6l0tQQ3uINXMQ3Mx_XA3UqpTG29-RQvfkZcrKxLz66B5hDWcVzzpjphaYfmR0IruolT8RENHXlQDsLVl3uLFQbXfmQd35g53AJkalRfZ9gBSnHqJ0oH21750-UDtPeunASIQvpAXChGYkJmKs0Y_QHfZ-YSgCNE1ihyeRWiRM2EdyuCagufNPEvMNGLQW8tjbn2x4jlZr2plS2xemZ_KWT5OYIcDc61pZFaFPdHa_POaUelu1Qr1Uyx6pfFfCkUoNi3715ApP_OKqVohMDlldtaVAuFOnQv-KoRuNRrgMNgRrTSGNomLwyHpgFNgk3O9qBpoC07FVyV9HJW_wjsByTFgZwS4dD8ndEfITTFjMzQd1svyyYAK-olsy9JURctVUN0kLSYoYKDldx4V-OK6a82ozxNL4u5je_08jCtuFBJpWZfM1-zeI__NBlfDZQAMOeSREVMlQp2YVtU50pkjN8g9TOQYCd3wsS41FXRTmWaGRLsgq1i1i=w1487-h990-no");
-  background-size: cover;
+  background-size: auto;
   height: 100%;
   background-attachment: fixed;
+  background-position: left;
 }
 
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
@@ -140,8 +141,8 @@ h1 {
   /* background: rgb(255, 255, 255, 0.7); */
   font-size-adjust: 2.85;
   text-align: left;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 a:hover {
