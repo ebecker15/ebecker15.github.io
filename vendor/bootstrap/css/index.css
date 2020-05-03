@@ -137,6 +137,7 @@ h1 {
   font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
   font-size-adjust: 2.85;
+  text-align: center;
 }
 
 a:hover {
