@@ -145,7 +145,7 @@ body {
   background-size: auto;
   height: 100%;
   background-attachment: fixed;
-  background-position: center;
+  background-position: left;
 }
 
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
@@ -157,7 +157,8 @@ h1 {
   font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
     text-align: left;
-
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 a:hover {
