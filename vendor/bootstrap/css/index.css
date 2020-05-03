@@ -21,7 +21,8 @@
   color: rgb(0, 0, 0);
   font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
-  padding-left: 12px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 /*styling of the navbar*/
@@ -131,7 +132,7 @@ body {
 
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
 h1 {
-  font-size: 2.45rem;
+  font-size: 2.15rem;
   margin-top: 200px;
   margin-bottom: 240px;
   color: rgb(0, 0, 0, 0.8);
@@ -139,8 +140,8 @@ h1 {
   /* background: rgb(255, 255, 255, 0.7); */
   font-size-adjust: 2.85;
   text-align: left;
-  padding-left: 10px;
-  padding-right: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 a:hover {
