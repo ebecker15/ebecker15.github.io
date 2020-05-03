@@ -130,20 +130,21 @@
 
 body {
   font-family: 'Oswald', sans-serif !important;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.444), rgba(71, 71, 71, 0.43)), url("https://lh3.googleusercontent.com/qF3LU2nE8MH9VmNmyPzl37ZYcrtYjp_-tdLI3nR1KBOwJlJNgu9VeRpjOJ_0UQR2C6Ed1VAV0_2mlHcdQYJ2usRP7fZ-ii1aaG79t0JhQP85u87RGLN7fnHntlxwdsDg6oq006yNj74WP8xBDJo6-dBZzEwNXML5qAo7Wl-MKtjGr9Z-A65r5SVugdCi97v2T-S075c6occkJTTJG_kRirE205QUXcyanFQxYKKFPgumWpc936Mseq6RrRGRCXjjI_8VkK4pTp6GtVPGVAzYVspl3Likln_pjZ0TWP_AMdjhgiL_SBjVQnWHYAh7Of1KmriQATf628obzqqK-L0iHyjW3LvlSyh4N_Rcc1cAgiipjd5h1Gq4g76odHN9qu2qmmQif_Nf-dy7A_0iduvYLdE2rznAaGh0mYPeyN19hQwsrRBo5cBa1ADLGtEgY3qciE777pjePcZ80_ZtjCsxCst82BS-EHfwD5eBcTTPhdU1Il6nfptCc5N3Z2OohLifoXKPaI_mpwFAs_WZCRDXYAOPJhejXzUbcqlRZxO0pU_r7czxCc4AJP2qMfN-5DQjkF9-bVngtNQrQ4Vyt6xIyMFylgV8WDE9JqvNfwzEgq7bOkEgmEudb5jLDlTYaKD8YxphDLcGA8guQZlLXQ1ehIXKWnwKa8kqCJO3cA78qUP-h8D7p7tQipU_6WxslJNo6QQ_wSgi6QQGstL3AwY-4joIq2d6-fnSx8RvsBEAr7q5wVHJ=w1718-h950-no");
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.444), rgba(71, 71, 71, 0.43)), url("https://lh3.googleusercontent.com/qF3LU2nE8MH9VmNmyPzl37ZYcrtYjp_-tdLI3nR1KBOwJlJNgu9VeRpjOJ_0UQR2C6Ed1VAV0_2mlHcdQYJ2usRP7fZ-ii1aaG79t0JhQP85u87RGLN7fnHntlxwdsDg6oq006yNj74WP8xBDJo6-dBZzEwNXML5qAo7Wl-MKtjGr9Z-A65r5SVugdCi97v2T-S075c6occkJTTJG_kRirE205QUXcyanFQxYKKFPgumWpc936Mseq6RrRGRCXjjI_8VkK4pTp6GtVPGVAzYVspl3Likln_pjZ0TWP_AMdjhgiL_SBjVQnWHYAh7Of1KmriQATf628obzqqK-L0iHyjW3LvlSyh4N_Rcc1cAgiipjd5h1Gq4g76odHN9qu2qmmQif_Nf-dy7A_0iduvYLdE2rznAaGh0mYPeyN19hQwsrRBo5cBa1ADLGtEgY3qciE777pjePcZ80_ZtjCsxCst82BS-EHfwD5eBcTTPhdU1Il6nfptCc5N3Z2OohLifoXKPaI_mpwFAs_WZCRDXYAOPJhejXzUbcqlRZxO0pU_r7czxCc4AJP2qMfN-5DQjkF9-bVngtNQrQ4Vyt6xIyMFylgV8WDE9JqvNfwzEgq7bOkEgmEudb5jLDlTYaKD8YxphDLcGA8guQZlLXQ1ehIXKWnwKa8kqCJO3cA78qUP-h8D7p7tQipU_6WxslJNo6QQ_wSgi6QQGstL3AwY-4joIq2d6-fnSx8RvsBEAr7q5wVHJ=w1718-h950-no") no-repeat top center fixed;
 
   height: 100%;
-  background-attachment: fixed;
+  width: 100%;
+  background-size: 100%;
 
 /* Center and scale the image nicely */
-background-position: center;
+/* background-position: center;
 background-repeat: no-repeat;
-background-size: cover;
+background-size: cover; */
 }
 
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
 h1 {
-  font-size: 2.15rem;
+  font-size: 2.45rem;
   margin-top: 320px;
   margin-bottom: 200px;
   color: rgb(0, 0, 0, 0.8);
