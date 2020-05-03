@@ -1,6 +1,6 @@
 @media screen and (max-width: 600px) {
   div.container-fluid {
-    font-size: 2rem;
+    font-size: 1rem;
   }
 }
 
@@ -130,12 +130,13 @@ body {
 
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
 h1 {
-  font-size: 2.85rem;
+  font-size: 2.35rem;
   margin-top: 200px;
   margin-bottom: 220px;
   color: rgb(0, 0, 0, 0.8);
   font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
+  font-size-adjust: 2.85;
 }
 
 a:hover {
