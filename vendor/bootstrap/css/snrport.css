@@ -130,25 +130,25 @@
 
 body {
   font-family: 'Oswald', sans-serif !important;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.44), rgba(71, 71, 71, 0.43)), url("https://lh3.googleusercontent.com/X1vSw9NGfv0LI5gRcnRwPfXUwrDF7PngBq185_MUuYUW-tcfaM_T5SWXHT3dBIaRbS85XuNXuUYXeNmqW01CyUohiYsdwzwBiGdhUBYWHuhAdKEWJ9rCp7nYwpJPfyVlby5Fq31MRImkdDa-leb87NqsR-u_Xy9elFiTM_p5IVZxW-tlHiudWc1WIz4s1adFULOoZCVCp3zsS1jgrADl_VXRhfUtXh5KcVh25zITEE8bh4vuv0nwt-IO4D1mR2iYjWBuzoi7vbUv0CBxdy4Tfh4WSMnuC-K9bps39PX5bztTxbGIu8oaSA9xTMTkdS_pvZKtn8rL9tGfHqi7IuAOXOPzVT3ewlUDYn_agZmzLE5WfQ7SWmzTS7JONN4ylUDKq27oXI5DdZP7h-L6iICZkbDQ9_TDsW5g_gpBnkrbLNe23KZ-MuXbMct1Meh_lZ4qbLmkySW3lhOzJlzGIgd2mqHlP3Qg4GPnblX9wYwsNnifUBzz-vjMcBS6NNdVkfZrHD5KgdWkHdZxFF29Io1m97MYANBn8-Zu4dGFxevDXtyto1wYKvvbytC2KR1o4-0WRDE2gnH_oxCrlWkjN1T56uhFm3bCHDflj9LHXT-1-c19GuyHB8BB08-qUb2p6pfSXc68Hkp6E_k1tgk7vh8DpuWIRWQh5HY9GIJAVD8NrYOIWJN0XBDtbFjEWdsAY0f4RqbK6Wl_dClL1UN_yIprHcKItdUNwUyyvewvghGRpIoC0KPlDWPYMqM=w1790-h990-no");
-  background-size: auto;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.444), rgba(71, 71, 71, 0.43)), url("https://lh3.googleusercontent.com/qF3LU2nE8MH9VmNmyPzl37ZYcrtYjp_-tdLI3nR1KBOwJlJNgu9VeRpjOJ_0UQR2C6Ed1VAV0_2mlHcdQYJ2usRP7fZ-ii1aaG79t0JhQP85u87RGLN7fnHntlxwdsDg6oq006yNj74WP8xBDJo6-dBZzEwNXML5qAo7Wl-MKtjGr9Z-A65r5SVugdCi97v2T-S075c6occkJTTJG_kRirE205QUXcyanFQxYKKFPgumWpc936Mseq6RrRGRCXjjI_8VkK4pTp6GtVPGVAzYVspl3Likln_pjZ0TWP_AMdjhgiL_SBjVQnWHYAh7Of1KmriQATf628obzqqK-L0iHyjW3LvlSyh4N_Rcc1cAgiipjd5h1Gq4g76odHN9qu2qmmQif_Nf-dy7A_0iduvYLdE2rznAaGh0mYPeyN19hQwsrRBo5cBa1ADLGtEgY3qciE777pjePcZ80_ZtjCsxCst82BS-EHfwD5eBcTTPhdU1Il6nfptCc5N3Z2OohLifoXKPaI_mpwFAs_WZCRDXYAOPJhejXzUbcqlRZxO0pU_r7czxCc4AJP2qMfN-5DQjkF9-bVngtNQrQ4Vyt6xIyMFylgV8WDE9JqvNfwzEgq7bOkEgmEudb5jLDlTYaKD8YxphDLcGA8guQZlLXQ1ehIXKWnwKa8kqCJO3cA78qUP-h8D7p7tQipU_6WxslJNo6QQ_wSgi6QQGstL3AwY-4joIq2d6-fnSx8RvsBEAr7q5wVHJ=w1718-h950-no");
+
   height: 100%;
   background-attachment: fixed;
-  background-position: center;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 /*styling for the main header "NOT ALIKE PHOTOGRAPHY"*/
 h1 {
   font-size: 2.15rem;
   margin-top: 320px;
-  margin-bottom: 200px;
+  margin-bottom: 220px;
   color: rgb(0, 0, 0, 0.8);
   font-family: 'Playfair Display', serif;
   /* background: rgb(255, 255, 255, 0.7); */
-    text-align: left;
-    padding-left: 6px;
-    padding-right: 6px;
-
 }
 
 a:hover {
